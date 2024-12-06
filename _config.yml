@@ -1,10 +1,15 @@
-title: "My Cybersecurity Portfolio"
-description: "Showcasing my cybersecurity projects."
+title: "Abdulrahman's Cybersecurity Portfolio"
+description: "Showcasing projects and skills in Cybersecurity."
 theme: minima
+author: Abdulrahman (K4ZUM4KIRYU)
 
-# Navigation Links
+# Navigation
 nav:
   - title: "Home"
     url: /
+  - title: "About Me"
+    url: /about
   - title: "Projects"
     url: /projects
+  - title: "Contact"
+    url: /contact
