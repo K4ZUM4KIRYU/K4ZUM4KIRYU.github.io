@@ -1,0 +1,11 @@
+title: "K4ZUM4KIRYU's Cybersecurity Portfolio"
+description: "Showcasing my projects and skills in Pentesting, Forensics, SOC Analysis, and more."
+baseurl: "" # Leave empty for root
+url: "https://K4ZUM4KIRYU.github.io"
+theme: jekyll-theme-cayman
+author: Abdulrahman
+email: alestwani98@gmail.com
+github_username: K4ZUM4KIRYU
+
+# Social links
+linkedin: "https://www.linkedin.com/in/al-estwani/"
