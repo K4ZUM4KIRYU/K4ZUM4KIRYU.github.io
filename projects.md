@@ -26,3 +26,7 @@ cd PenTestToolBox
 pip install -r requirements.txt
 python3 nmap_scan.py --target 192.168.1.1/24 --ports 1-65535
 ```
+[Project Repository Link](https://github.com/K4ZUM4KIRYU/PenTestToolBox)
+
+## 2. Mobile Hacking Lab - Secure Notes
+A **secure notes lab project** involving the development of an Android app to brute-force PIN codes and capture the flag.
